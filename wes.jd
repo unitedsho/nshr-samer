@@ -8,7 +8,7 @@ A7MD.on("guildMemberAdd", member => {
   return channel.send(` 
 **
 سلام عليكم 
-مكان راقي ندعوك له
+مكان راقي ندعوك له :sparkles:
                                [ https://discord.gg/z9pYjZ ] 
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
