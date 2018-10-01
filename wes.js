@@ -8,8 +8,9 @@ A7MD.on("guildMemberAdd", member => {
   return channel.send(` 
 **
 سلام عليكم 
-مكان راقي ندعوك له :sparkles:
-                               [ https://discord.gg/uXVQvyv ] 
+حياكم متجر
+يتوفر كلشي يخطر ببالك:fire:
+وفي نظام انفايت للرتب هايبكسل :fire:                               [ https://discord.gg/uE4dFQJ ] 
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
 }).catch(console.error)
